@@ -1,9 +1,10 @@
 # HExchange
 
-Houdini python panel tool for quick node exchange between small team members
+Houdini python panel tool for quick node exchange between files or members of small teams
 
-- Save nodes to drobbox (automatically find path) or local folder with source files
-- Detect file sequenses
+- Saves selected nodes to files in drobbox (automatically finds path) or local folder with source files
+- Detects file sequenses
+If you spot any bug, please feel free to send me an email at gammany@gmail.com
 
 ![Help](Help/Exchanger.gif)
 
