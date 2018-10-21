@@ -4,9 +4,10 @@ Houdini python panel tool for quick node exchange between files or members of sm
 
 - Saves selected nodes to files in drobbox (automatically finds path) or local folder with source files
 - Detects file sequenses
-If you spot any bug, please feel free to send me an email at gammany@gmail.com
 
 ![Help](Help/Exchanger.gif)
+
+If you spot any bug, please feel free to send me an email at gammany@gmail.com
 
 How to Install:
 
