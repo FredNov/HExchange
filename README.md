@@ -7,7 +7,7 @@ Houdini python panel tool for quick node exchange between files or members of sm
 
 ![Help](Help/Exchanger.gif)
 
-If you spot any bug, please feel free to send me an email at gammany@gmail.com
+If you spot any bugs, please feel free to send me an email at gammany@gmail.com
 
 How to Install:
 
